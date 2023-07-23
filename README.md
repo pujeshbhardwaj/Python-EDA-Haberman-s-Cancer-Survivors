@@ -8,19 +8,19 @@ Our primary objective is to explore the dataset and uncover patterns that could 
 
 **Key Questions and Findings:**
 
-Age vs. Survival Status:
+- Age vs. Survival Status:  
 We investigated the relationship between the patient's age and their survival status. Surprisingly, younger patients (aged 40 and below) had a significantly higher success rate of 90%, compared to older patients, who exhibited a 71% success rate.
 
-Positive Axillary Nodes vs. Survival Status:
+- Positive Axillary Nodes vs. Survival Status:  
 Analyzing the number of positive axillary nodes and its effect on survival status, we found that younger patients showed higher survival rates across all node stages (N0-N3). Additionally, younger patients had a better chance of surviving beyond 5 years post-operation, regardless of the node stage.
 
-Impact of Operation on Survival Status:
+- Impact of Operation on Survival Status:  
 The operation's effectiveness varied based on the patient's age. Younger patients had a greater likelihood of successful outcomes after surgery, while older patients were more affected by the number of positive axillary nodes, particularly in stage N3 cancer, where the risk of mortality was higher.
 
-Trends in Operations Over the Years:
+- Trends in Operations Over the Years:  
 Our analysis revealed fascinating trends in the number of operations performed over time. From 1958 to 1967, the number of operations remained relatively stable. However, in 1968 and 1969, there was a sharp decrease of approximately 50%. The impact of early breast cancer awareness on the need for surgery remains inconclusive and warrants further investigation.
 
-Predicting Survival Status:
+- Predicting Survival Status:  
 Based on our findings, predicting a patient's survival status effectively appears to be feasible. However, we must leverage appropriate machine learning algorithms and employ cross-validation techniques to ensure robust predictions.
 
 **Conclusion:**
